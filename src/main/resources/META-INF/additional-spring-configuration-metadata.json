@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "request-limit-per-minute",
+  "type": "java.lang.Integer",
+  "description": "Number of requests allowed per minute."
+}]}

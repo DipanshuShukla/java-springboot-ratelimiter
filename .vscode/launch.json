@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RateLimiterApplication<rate-limiter>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dipanshushukla.rate_limiter.RateLimiterApplication",
+            "projectName": "rate-limiter",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+server:
+    port: 12345
+spring:
+    data:
+        redis:
+            host: localhost
+            port: 6379
+
+request-limit-per-minute: 5
